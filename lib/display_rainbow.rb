@@ -3,5 +3,5 @@ def display_rainbow(colors)
 end
 yolo=["red","orange","yellow","green","blue","indigo","violet"]
 
-  
+display_rainbow(yolo)
   
